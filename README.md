@@ -1,6 +1,9 @@
 ## hi, i'm patrycja
 
-🎓 **AGH** graduate in forensic science but self-taught programmer  
+agh graduate in forensic science but self-taught programmer
+
+linux cultist, vim enjoyer
+
 👾 currently working @ Software Mansion in RNOS, maintaining and collaborating mostly to [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
 
 ---
