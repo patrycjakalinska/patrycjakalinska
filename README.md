@@ -30,4 +30,3 @@ please don't
 thanks for stopping by and reading all of this - super ready to build something together  ✨
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrycjakalinska&show_icons=true&theme=gruvbox" alt="my Github Stats"/>
