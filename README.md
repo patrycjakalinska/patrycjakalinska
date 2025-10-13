@@ -4,15 +4,26 @@ agh graduate in forensic science but self-taught programmer
 
 linux cultist, vim enjoyer
 
-👾 currently working @ Software Mansion in RNOS, maintaining and collaborating mostly to [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+👾 currently working @ Software Mansion RNOS, maintaining and collaborating mostly to [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
 
 ---
 
-### what i am doing
+### my skills
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=react,js,ts,cs,nodejs,nextjs,dotnet,html,css,java" />
+  </a>
+</p>  
+and technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,androidstudio,mongodb,redux,express,github,gitlab,jest,jquery" />
+  </a>
+</p>  
 
+briefing:
 - javascript, typescript, react, node.js (and all other of MERN stack), c#, react-native - i'm confident at
 - python, java - feel ok, but def need to learn more
-- cpp - bipolar - confident and/or depressed
 
 ---
 
