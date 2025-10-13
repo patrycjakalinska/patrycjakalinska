@@ -10,19 +10,14 @@ linux cultist, vim enjoyer
 
 ### what i am doing
 
-- javascript, typescript, react, node.js (and all other of MERN stack), c# - i'm confident at
-- python, java - fell ok, but def need to learn more
-- react-native and cpp - bipolar knowledge, confident and/or depressed
+- javascript, typescript, react, node.js (and all other of MERN stack), c#, react-native - i'm confident at
+- python, java - feel ok, but def need to learn more
+- cpp - bipolar - confident and/or depressed
 
 ---
 
 ### where to find me
 
-please don't
-
----
-
-### jk, my socials 
 - 🖇️ [linkedIn](https://www.linkedin.com/in/patrycja-kali%C5%84ska-251a09234/)  
 - 🌐 [kalinska.dev](https://kalinska.dev) *(⌛ not done yet super procrastinating)*  
 ---
